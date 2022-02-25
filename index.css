@@ -223,3 +223,23 @@ html {
     color: red;
     font-weight: bold;
 }
+
+.contact {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(226, 222, 222);
+}
+
+input {
+    color: black;
+    font-weight: bold;
+    background-color: rgb(53, 52, 54);
+}
+
+footer {
+    color: black;
+    font-weight: bold;
+    text-align: right;
+    background-color: rgb(19, 230, 195);
+
+}
