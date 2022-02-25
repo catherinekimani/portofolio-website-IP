@@ -101,7 +101,7 @@ html {
     display: flex;
     justify-content: center;
     width: 100%;
-    height: 100vh;
+    height: 80vh;
     position: relative;
     background-color: rgb(218, 213, 213);
 }
@@ -133,7 +133,7 @@ html {
     position: absolute;
     left: 33%;
     width: 25%;
-    height: 63vh;
+    height: 65vh;
     margin: 5%;
     text-align: center;
     text-align: justify;
@@ -165,5 +165,18 @@ html {
 
 .skills span {
     color: rgb(255, 38, 0);
+    font-weight: bold;
+}
+
+.programming {
+    background-color: rgb(218, 213, 213);
+}
+
+.programming img {
+    width: 30%;
+}
+
+.programming p {
+    color: rgba(7, 7, 7, 0.575);
     font-weight: bold;
 }
