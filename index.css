@@ -180,3 +180,46 @@ html {
     color: rgba(7, 7, 7, 0.575);
     font-weight: bold;
 }
+
+.portofolio {
+    display: flex;
+    background-color: rgb(226, 222, 222);
+    margin: 5%;
+}
+
+
+.portofolio h1 {
+    position: absolute;
+    right: 50%;
+}
+
+.portofolio h2 {
+    margin: 10%;
+}
+
+.portofolio img {
+    width: 80%;
+}
+
+.restaurant {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 30%;
+    margin: 5%;
+}
+
+.restaurant span {
+    color: red;
+    font-weight: bold;
+}
+.quiz {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 30%;
+    margin: 5%;
+}
+
+.quiz span {
+    color: red;
+    font-weight: bold;
+}
