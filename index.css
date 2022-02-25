@@ -177,13 +177,13 @@ html {
 }
 
 .programming p {
-    color: rgba(7, 7, 7, 0.575);
+    color: rgb(112, 21, 103);
     font-weight: bold;
 }
 
 .portofolio {
     display: flex;
-    background-color: rgb(226, 222, 222);
+    background-color: rgb(218, 213, 213);
     margin: 5%;
 }
 
@@ -227,7 +227,7 @@ html {
 .contact {
     display: flex;
     justify-content: space-around;
-    background-color: rgb(226, 222, 222);
+    background-color: rgb(218, 213, 213);
 }
 
 .contact h1 {
